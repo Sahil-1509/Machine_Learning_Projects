@@ -14,4 +14,6 @@ This Repository Contains projects based on Machine Learning.
 
 5)Build model that can tell people emotion at the moment by using an audio clip of their sound.
 
+6)Build a model which can answer the doubts of the customers of a bank
+
 
